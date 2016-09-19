@@ -1,0 +1,20 @@
+{
+  "name": "ng-webpack",
+  "version": "1.0.0",
+  "description": "Projeto base para usar Angular e Webpack.",
+  "main": "./app/index.js",
+  "author": "André Fillipe de Oliveira e Silva",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.25.0",
+    "file-loader": "^0.9.0",
+    "ng-annotate-loader": "^0.1.1",
+    "source-map-loader": "^0.1.5",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-router": "^1.0.0-beta.2"
+  }
+}
